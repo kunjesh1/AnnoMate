@@ -2,6 +2,8 @@
 
 An freehand annotation tool in canvas inspired by Exalidraw
 
+https://annomate.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
