@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# AnnoMate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An freehand annotation tool in canvas inspired by Exalidraw
 
 ## Available Scripts
 
